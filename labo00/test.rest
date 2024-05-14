@@ -1,0 +1,11 @@
+### 
+
+GET https://api.github.com/users
+
+###
+
+Get https://api.github.com/users/profpilona
+
+###
+
+GET https://www.archambault.ca/livres/un-caf%C3%A9-avec-marie/bouchard-serge/9782764626597/?id=3350373&cat=1887042
